@@ -13,4 +13,4 @@ Once installation is complete reboot & you're done.
 Requirements:
 ***Windows 10 Builds 1903 - Windows 11 current builds.***
 
-For a cleaner look use the [Folder Thumbnail Remover.zip](https://github.com/niivu/7tsp-Icon-themes/files/8693004/Folder.Thumbnail.Remover.zip) registry hack.
+For a cleaner look use the [Folder Thumbnail Remover](https://github.com/niivu/7tsp-Icon-themes/files/8693004/Folder.Thumbnail.Remover.zip) registry hack.
